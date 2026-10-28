@@ -79,8 +79,7 @@ body {
     flex: 1;
     text-align: left;
 }
-
-.plan-text h2 {
+.plan-text h3 {
     color: #1f2f56;
     font-size: 14px;
     font-weight: 900;
@@ -92,17 +91,15 @@ body {
     font-size: 14px;
 }
 
-.change-link {
+.change-link a {
     color: #382ae1;
     font-size: 13px;
     font-weight: 700;
 }
 
-.change-link:hover {
+.change-link a:hover {
     color: #766cf1;
-    text-decoration: none;
 }
-
 .proceed-btn {
     width: 100%;
     padding: 15px;
