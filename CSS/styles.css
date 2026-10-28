@@ -79,6 +79,7 @@ body {
     flex: 1;
     text-align: left;
 }
+
 .plan-text h3 {
     color: #1f2f56;
     font-size: 14px;
@@ -99,7 +100,9 @@ body {
 
 .change-link a:hover {
     color: #766cf1;
+    text-decoration: none;
 }
+
 .proceed-btn {
     width: 100%;
     padding: 15px;
@@ -146,6 +149,7 @@ body {
         background-image: url('../images/pattern-background-mobile.svg');
         background-size: 100% auto;
     }
+
     .container {
         width: 100%;
     }
